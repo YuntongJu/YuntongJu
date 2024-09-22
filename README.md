@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yj2564@columbia.edu**
 
-- ⚡ Fun fact **I love to feed Canadian geese**
+- ⚡ Fun fact **I love Canadian geese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
