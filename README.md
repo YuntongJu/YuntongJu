@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sally Ju</h1>
-<h3 align="center">M.S. student passionate about Data Science and Software Engineering</h3>
+<h1 align="center">Hi 👋, I'm Sally </h1>
+<h3 align="center">M.S. student passionate about Data Science</h3>
 
 - ♔ I’m currently studying Data Science **at Columbia University**
 
